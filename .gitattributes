@@ -1,1 +1,2 @@
-*.3CShop linguist-language=HTML
+*.cs linguist-language=HTML
+*.sln linguist-language=HTML
